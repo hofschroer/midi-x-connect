@@ -32,6 +32,8 @@ This GitHub project describes how to create a simple hardware solution to connec
 ### The hardware
 For the hardware you need two Arduino Micro boards. They are quite cheap and there are only 3 wires needed to connect these boards. Each board has an USB-3 connector, that connects with a standartd USB-3 to USB-A cable
 
+![Schematics](https://github.com/hofschroer/midi-x-connect/blob/main/hardware-arduino/midi-x-connect_Leiterplatte.png "Schematics")
+
 ### The software
 There are two Arduino project for the read-software and the write-software.
 
